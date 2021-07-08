@@ -1,9 +1,3 @@
-				Department Highest Salary
----------------------------------------------------------------------------------------
-Write a SQL query to find employees who have the highest salary in each of the departments.
----------------------------------------------------------------------------------------
-Solution:
----------------------------------------------------------------------------------------
 	SELECT
 	    Department.name AS 'Department',
 	    Employee.name AS 'Employee',
@@ -21,4 +15,4 @@ Solution:
 		GROUP BY DepartmentId
 	    )
 	;
----------------------------------------------------------------------------------------
+
