@@ -1,2 +1,6 @@
-# Problems-SQL
-Problems solved in SQL.
+# Problemas Resolvidos.
+
+## URI
+## stratascratch
+## leetcode
+
